@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+database.db
+flask.log
+.git
+.gitignore
+venv/
+*.jpg
+*.png.bak
+static/preview_*.html
+node_modules/
